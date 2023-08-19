@@ -315,5 +315,10 @@ h1{
         border: none;
         background-image: url(media/goup.svg);
     }
-    #hamburger{display: flex;}
+    #hamburger{
+        display: flex;
+        border: none;
+        background-color: #F4F5F7;
+        margin-top: 1rem;
+    }
 }
